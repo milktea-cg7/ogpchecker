@@ -1,0 +1,2 @@
+content ogpchecker content/
+overlay chrome://browser/content/browser.xul chrome://ogpchecker/content/ogpchecker.xul
